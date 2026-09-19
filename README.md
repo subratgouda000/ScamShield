@@ -50,8 +50,12 @@ ScamShield turns these signals into a simple security report that a user can und
 
 ### ScamShield AI Analysis
 
-![ScamShield Demo](scamshield-demo.png)
+![ScamShield Demo](DeployImage.png)
 
+### 🚀 Live Demo
+
+**Try ScamShield online:**  
+https://scamshield-subrat.streamlit.app
 ```text
 ┌─────────────────────────────────────────────────────────────────────┐
 │ 🛡️ ScamShield                                      AI SECURITY ENGINE│
@@ -84,7 +88,7 @@ The application includes three ready-to-test examples:
 | ✅ Legitimate Message | Demonstrates that not every message is classified as a scam |
 | 🔗 Suspicious URL | Tests URL-focused threat signals |
 
-> **Screenshots / GIF:** Add your final deployed-app screenshot or demo GIF here when available. Keeping visual evidence in the README is recommended for hackathon judging and portfolio use.
+> The screenshot above demonstrates the ScamShield interface and AI-powered threat analysis workflow.
 
 ---
 
