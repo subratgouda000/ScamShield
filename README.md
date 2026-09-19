@@ -585,11 +585,7 @@ When reporting a bug, include:
 
 # 📄 License
 
-**License: Not yet specified.**
-
-# 📄 License
-
-This project is currently a hackathon project and does not have a formal open-source license.
+This project is currently a hackathon project and does not have a formal open-source license. A formal open-source license can be added before public redistribution.
 
 ---
 
