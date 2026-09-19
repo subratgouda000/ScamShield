@@ -272,7 +272,6 @@ git clone https://github.com/subratgouda000/ScamShield.git
 cd ScamShield
 ```
 
-> Replace `YOUR_GITHUB_REPOSITORY_URL` with the actual GitHub repository URL.
 
 ---
 
