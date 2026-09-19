@@ -266,7 +266,7 @@ python-dotenv 1.2.3
 ## 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/subratgouda000/ScamShield.git
 cd ScamShield
 ```
 
