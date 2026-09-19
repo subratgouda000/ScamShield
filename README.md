@@ -46,9 +46,11 @@ ScamShield turns these signals into a simple security report that a user can und
 
 ---
 
-# 🖥️ Product Preview
+# 🖥️ Visual Proof
 
-> **Live Demo:** Add your deployed Streamlit URL here after deployment.
+### ScamShield AI Analysis
+
+![ScamShield Demo](scamshield-demo.png)
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────┐
