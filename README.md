@@ -587,9 +587,9 @@ When reporting a bug, include:
 
 **License: Not yet specified.**
 
-This project is currently a hackathon project. A formal open-source license can be added before public redistribution.
+# 📄 License
 
-> If the project is later released under MIT, Apache-2.0, or another license, update this section and add the corresponding `LICENSE` file.
+This project is currently a hackathon project and does not have a formal open-source license.
 
 ---
 
